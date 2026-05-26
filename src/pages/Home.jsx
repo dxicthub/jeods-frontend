@@ -409,21 +409,21 @@ const TestimonialCarousel = () => {
     { id: 3, name: "Emmanuel Okafor", course: "Admission Processing", testimony: "They secured my admission into UNIPORT within weeks. The process was smooth and stress-free. Highly recommended!", image: testimonialImg3, rating: 5 },
     { id: 4, name: "Fatima Bello", course: "Computer Training", testimony: "I learned web development in just 3 months. Now I'm working as a freelance developer. Thank you JEO Digital!", image: testimonialImg4, rating: 5 },
     { id: 5, name: "David Akpan", course: "GCE Registration", testimony: "Their GCE registration service was fast and reliable. I got my results on time and passed excellently.", image: testimonialImg5, rating: 4 },
-    { id: 6, name: "Grace Okonkwo", course: "Post UTME", testimony: "The Post UTME past questions and coaching gave me an edge. I scored above the cut-off mark for my dream course.", image: testimonialImg6, rating: 5 },
-    { id: 7, name: "Michael Ogunleye", course: "NECO Registration", testimony: "I registered for NECO through them and the process was seamless. Their support team was always available.", image: testimonialImg7, rating: 4 },
+    { id: 6, name: "Okonkwo Chukwu", course: "Post UTME", testimony: "The Post UTME past questions and coaching gave me an edge. I scored above the cut-off mark for my dream course.", image: testimonialImg6, rating: 5 },
+    { id: 7, name: "Bashir Ayman", course: "NECO Registration", testimony: "I registered for NECO through them and the process was seamless. Their support team was always available.", image: testimonialImg7, rating: 4 },
     { id: 8, name: "Precious Eze", course: "Direct Entry", testimony: "They processed my Direct Entry application perfectly. I'm now in 200 level at UNN. God bless JEO Digital!", image: testimonialImg8, rating: 5 },
-    { id: 9, name: "Victor Abiola", course: "Programming Course", testimony: "The Python programming course was top-notch. The instructor was patient and knowledgeable.", image: testimonialImg9, rating: 5 },
+    { id: 9, name: "Mariam Abiola", course: "Programming Course", testimony: "The Python programming course was top-notch. The instructor was patient and knowledgeable.", image: testimonialImg9, rating: 5 },
     { id: 10, name: "Esther Ugochukwu", course: "Lesson/Coaching", testimony: "My daughter's grades improved significantly after their home tutoring. The teachers are excellent!", image: testimonialImg10, rating: 5 },
     { id: 11, name: "Joshua Nwachukwu", course: "JAMB RUNS", testimony: "Their JAMB processing is 100% accurate. I scored above 300. I'm forever grateful!", image: testimonialImg11, rating: 5 },
     { id: 12, name: "Rebecca Idowu", course: "Computer Training", testimony: "The graphic design course changed my life. I now run my own design business.", image: testimonialImg12, rating: 5 },
-    { id: 13, name: "Samuel Adeleke", course: "WAEC Coaching", testimony: "The WAEC coaching classes were intensive and effective. I made 8As!", image: testimonialImg1, rating: 5 },
+    { id: 13, name: "Anabel Adeleke", course: "WAEC Coaching", testimony: "The WAEC coaching classes were intensive and effective. I made 8As!", image: testimonialImg1, rating: 5 },
     { id: 14, name: "Blessing James", course: "Admission Processing", testimony: "They helped me change my course and institution successfully. I'm now studying what I love.", image: testimonialImg2, rating: 4 },
     { id: 15, name: "Henry Nnamdi", course: "Computer Training", testimony: "The Microsoft Office training was practical and job-ready. I got certified and employed.", image: testimonialImg3, rating: 5 },
-    { id: 16, name: "Joy Akpan", course: "Post UTME", testimony: "Their Post UTME past questions were accurate. I passed with a high score.", image: testimonialImg4, rating: 5 },
+    { id: 16, name: "Amina Kabiru", course: "Post UTME", testimony: "Their Post UTME past questions were accurate. I passed with a high score.", image: testimonialImg4, rating: 5 },
     { id: 17, name: "Patrick Obi", course: "JAMB Preparation", testimony: "The CBT mock exams prepared me well for the real exam. Best decision ever.", image: testimonialImg5, rating: 5 },
     { id: 18, name: "Sarah Okafor", course: "Lesson/Coaching", testimony: "The home tutoring service was flexible and effective. My grades improved greatly.", image: testimonialImg6, rating: 5 },
-    { id: 19, name: "Daniel Yusuf", course: "Computer Training", testimony: "The web development course was comprehensive. I built my portfolio and got hired.", image: testimonialImg7, rating: 5 },
-    { id: 20, name: "Mercy Johnson", course: "Admission Processing", testimony: "They secured my admission into ABSU stress-free. Thank you JEO Digital Solutions!", image: testimonialImg8, rating: 5 }
+    { id: 19, name: "Dantata Yusuf", course: "Computer Training", testimony: "The web development course was comprehensive. I built my portfolio and got hired.", image: testimonialImg7, rating: 5 },
+    { id: 20, name: "Mike Johnson", course: "Admission Processing", testimony: "They secured my admission into ABSU stress-free. Thank you JEO Digital Solutions!", image: testimonialImg8, rating: 5 }
   ];
 
   const cardsToShow = 2;
@@ -1062,7 +1062,7 @@ const Home = () => {
           <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeInUp} className="bg-gradient-to-r from-primary-600/20 to-secondary-600/20 rounded-2xl p-6 sm:p-12 backdrop-blur-sm border border-white/10">
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-4">Ready to Secure Your Future?</h2>
             <p className="text-gray-300 mb-8 text-sm sm:text-lg px-4">Join thousands of successful students who trust <span className="text-primary-500">JEO Digital Solutions</span> for their examination, admission, and training needs.</p>
-            <Link to="/contact" className="btn-primary inline-block" aria-label="Contact us to register">Register Now</Link>
+            <Link to="/register" className="btn-primary inline-block" aria-label="Contact us to register">Register Now</Link>
           </motion.div>
         </div>
       </section>
