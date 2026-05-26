@@ -586,7 +586,7 @@ const TeamCarousel = () => {
   const carouselRef = useRef(null);
 
   const teamMembers = [
-    { id: 1, name: "Chief Justice Ekueme O.", position: "CEO/Director", location: "Aba Branch", phone: "+234 7061066372", whatsapp: "2347061066372", email: "ceo@jeodigital.com", linkedin: "https://linkedin.com/in/chief-johnson-eze", image: teamImg1 },
+    { id: 1, name: "Chief Justice Ekwueme O.", position: "CEO/Director", location: "Aba Branch", phone: "+234 7061066372", whatsapp: "2347061066372", email: "ceo@jeodigital.com", linkedin: "https://linkedin.com/in/chief-johnson-eze", image: teamImg1 },
     { id: 2, name: "Effiong, Hoska", position: "Full Stack Software Engineer", location: "Abuja - FCT", phone: "+234 80064633233", whatsapp: "2348123645507", email: "hoskadavid@gmail.com", linkedin: "https://linkedin.com/in/hoska-effiong", image: teamImg2 },
     { id: 3, name: "Clement Abigail", position: "Secretary/Analyst", location: "Aba Branch", phone: "+234 8167660539", whatsapp: "2348167660539", email: "abigail.clement@jeodigital.com", linkedin: "https://linkedin.com/in/michael-adeleke", image: teamImg3 },
     { id: 4, name: "Ms. Grace Okonkwo", position: "UX/UI Specialist", location: "Port Harcourt Branch", phone: "+234 805 456 7890", whatsapp: "2348054567890", email: "grace.okonkwo@jeodigital.com", linkedin: "https://linkedin.com/in/grace-okonkwo", image: teamImg4 },
@@ -901,7 +901,7 @@ const Home = () => {
     newServices: [
       { id: 1, title: 'WAEC | NECO | JAMB  | GCE', image: examinationRegImg, highlight: true, features: ['Fast Processing', 'Accurate', 'Timely', 'Affordable Rates'], showRegister: false },
       { id: 2, title: 'JAMB "RUNS" | PROCESSING', image: jambRunsImg, highlight: true, features: ['SCORE 300+ in one sitting', 'Reliable Results', 'Expert Guidance', '24/7 Support'], showRegister: false },
-      { id: 3, title: 'WAEC | NECO | JAMB INTENSIVE LESSONS & COACHING', image: lessonCoachingImg, highlight: true, features: ['Private Lessons', 'JAMB CBT Prep', 'Exam Prep', 'Project/Thesis Coaching'], showRegister: false },
+      { id: 3, title: 'JAMB | WAEC INTENSIVE LESSONS & COACHING', image: lessonCoachingImg, highlight: true, features: ['Private Lessons', 'JAMB CBT Prep', 'Exam Prep', 'Project/Thesis Coaching'], showRegister: true },
       { id: 4, title: 'UNIPORT | AFE BABALOLA | ABSU | UNICAL ADMISSION PROCESSING', image: admissionProcessingImg, highlight: true, features: ['Post UTME', 'Supplementary', 'Direct Admission', 'Other Services'], showRegister: false },
       { id: 5, title: 'GENERAL COMPUTER SERVICES', image: generalComputerImg, highlight: true, features: ['Printing', 'Typing', 'Scanning', 'Online Services'], showRegister: true },
       { id: 6, title: 'COMPUTER TRAINING | PROGRAMMING', image: computerTrainingImg, highlight: true, features: ['Basic Computing', 'Intermediate', 'Advanced', 'Certificate Issuance'], showRegister: true }
