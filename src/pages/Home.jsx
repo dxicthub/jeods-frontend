@@ -587,7 +587,7 @@ const TeamCarousel = () => {
 
   const teamMembers = [
     { id: 1, name: "Chief Justice Ekueme O.", position: "CEO/Director", location: "Aba Branch", phone: "+234 7061066372", whatsapp: "2347061066372", email: "ceo@jeodigital.com", linkedin: "https://linkedin.com/in/chief-johnson-eze", image: teamImg1 },
-    { id: 2, name: "Effiong, Hoska", position: "Full Stack Software Engineer", location: "Abuja", phone: "+234 8123645507", whatsapp: "2348123645507", email: "hoskadavid@gmail.com", linkedin: "https://linkedin.com/in/hoska-effiong", image: teamImg2 },
+    { id: 2, name: "Effiong, Hoska", position: "Full Stack Software Engineer", location: "Abuja - FCT", phone: "+234 80064633233", whatsapp: "2348123645507", email: "hoskadavid@gmail.com", linkedin: "https://linkedin.com/in/hoska-effiong", image: teamImg2 },
     { id: 3, name: "Engr. Michael Adeleke", position: "Cloud Engineer", location: "Uyo Branch", phone: "+234 804 345 6789", whatsapp: "2348043456789", email: "michael.adeleke@jeodigital.com", linkedin: "https://linkedin.com/in/michael-adeleke", image: teamImg3 },
     { id: 4, name: "Ms. Grace Okonkwo", position: "UX/UI Specialist", location: "Port Harcourt Branch", phone: "+234 805 456 7890", whatsapp: "2348054567890", email: "grace.okonkwo@jeodigital.com", linkedin: "https://linkedin.com/in/grace-okonkwo", image: teamImg4 },
     { id: 5, name: "Mr. David Nwachukwu", position: "Data Analyst", location: "Abuja - Head Quarter", phone: "+234 806 567 8901", whatsapp: "2348065678901", email: "david.nwachukwu@jeodigital.com", linkedin: "https://linkedin.com/in/david-nwachukwu", image: teamImg5 },
