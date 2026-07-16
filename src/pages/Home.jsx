@@ -1408,7 +1408,7 @@ const Home = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center px-4">
               <Link to="/register" className="px-8 py-3 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-lg font-semibold text-white hover:opacity-90 transition focus:outline-none focus:ring-2 focus:ring-primary-500">
-                Register Now
+                Sign Up Now
               </Link>
               <Link to="/blog" className="px-8 py-3 bg-white/10 border border-white/20 rounded-lg font-semibold text-white hover:bg-white/20 transition focus:outline-none focus:ring-2 focus:ring-white">
                 View Blog
