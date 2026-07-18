@@ -13,7 +13,7 @@ import examinationRegImg from '../assets/home_cards_imgs/examination-registratio
 import jambRunsImg from '../assets/home_cards_imgs/jamb-runs.jpg';
 import admissionProcessingImg from '../assets/home_cards_imgs/admission-processing.jpg';
 import computerTrainingImg from '../assets/home_cards_imgs/computer-training.jpg';
-import generalComputerImg from '../assets/home_cards_imgs/general-computaer-services.jpg';
+import generalComputerImg from '../assets/home_cards_imgs/general-computer-services.jpg';
 import lessonCoachingImg from '../assets/home_cards_imgs/lesson-coaching.jpg';
 import webDevelopmentImg from '../assets/home_cards_imgs/web-development.jpg';
 import cloudSolutionsImg from '../assets/home_cards_imgs/cloud-solutions.jpg';
@@ -23,7 +23,7 @@ import cybersecurityImg from '../assets/home_cards_imgs/cybersecurity.jpg';
 import digitalAnalyticsImg from '../assets/home_cards_imgs/digital-analytics.jpg';
 import ieltsImg from '../assets/home_cards_imgs/ielts-img.jpg';
 import celpipImg from '../assets/home_cards_imgs/celpip-img.jpg';
-import uxuiImg from "../assets/home_cards_imgs/computer-training.jpg"; // TEMP: replace with real UX/UI image;
+import uxuiImg from '../assets/home_cards_imgs/uxui-img.jpg';
 
 // Import testimonial images - using fewer for performance
 import testimonialImg1 from '../assets/testimony_imgs/testimonyImg1.jpg';
