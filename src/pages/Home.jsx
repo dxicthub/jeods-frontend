@@ -13,7 +13,7 @@ import examinationRegImg from '../assets/home_cards_imgs/examination-registratio
 import jambRunsImg from '../assets/home_cards_imgs/jamb-runs.jpg';
 import admissionProcessingImg from '../assets/home_cards_imgs/admission-processing.jpg';
 import computerTrainingImg from '../assets/home_cards_imgs/computer-training.jpg';
-import generalComputerImg from '../assets/home_cards_imgs/general-computer-services.jpg';
+import generalComputerImg from '../assets/home_cards_imgs/general-computaer-services.jpg';
 import lessonCoachingImg from '../assets/home_cards_imgs/lesson-coaching.jpg';
 import webDevelopmentImg from '../assets/home_cards_imgs/web-development.jpg';
 import cloudSolutionsImg from '../assets/home_cards_imgs/cloud-solutions.jpg';
