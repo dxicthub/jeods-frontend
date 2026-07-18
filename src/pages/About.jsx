@@ -210,7 +210,7 @@ const About = () => {
     },
     { 
       id: 2, 
-      name: "Effiong, Hoska", 
+      name: "Effiong, Hoska (DX)", 
       position: "Full Stack Software Engineer", 
       location: "", 
       image: teamImg2,
