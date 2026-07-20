@@ -1411,7 +1411,7 @@ const Home = () => {
                Register
               </Link>
               <Link to="/blog" className="px-8 py-3 bg-white/10 border border-white/20 rounded-lg font-semibold text-white hover:bg-white/20 transition focus:outline-none focus:ring-2 focus:ring-white">
-                View Blog
+              View My Blog Here
               </Link>
             </div>
             
